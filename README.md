@@ -1,2 +1,2 @@
-# shoelace
+# shoelace :boot:
 Java-based Restful API exposure using Spring Boot.
